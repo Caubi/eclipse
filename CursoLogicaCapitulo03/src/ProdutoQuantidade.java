@@ -28,8 +28,9 @@ public class ProdutoQuantidade {
 		Double ValorTotalComDesconto = ValorTotal - desconto;
 		
 		
+		System.out.println("Escrevendo uma linha nova !");
 		System.out.println("O valor total é igual a : "  + ValorTotalComDesconto);
-		
+				
 		scanner.close();
 	}
 }
