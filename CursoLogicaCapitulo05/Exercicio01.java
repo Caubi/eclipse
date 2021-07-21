@@ -30,6 +30,7 @@ public class Exercicio01 {
 			System.out.println("Reprovado");
 		}
 		
+		scanner.close();
 	}
 
 	
